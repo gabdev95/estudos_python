@@ -5,6 +5,6 @@ Material desenvolvido a partir das aulas do <a href="https://www.youtube.com/pla
 
 ### 📌 Estudo de:
 - Idle
-- <b>pycharm</b>
+- <b>Pycharm</b>
 - Comandos em Python
 - Tipos primitivos
