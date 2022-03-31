@@ -4,7 +4,9 @@ Material desenvolvido a partir das aulas do <a href="https://www.youtube.com/pla
 
 
 ### 📌 Estudo de:
-- Idle
-- <b>Pycharm</b>
-- Comandos em Python
-- Tipos primitivos
+- Idle (Aula 03)
+- Comandos em Python (Aula 04)
+- <b>Pycharm</b> (Aula 05)
+- Tipos primitivos (Aula 06)
+- Operações Aritméticas (Aula 07)
+- Ordem de Precedência (Aula 07)
