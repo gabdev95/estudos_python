@@ -1,0 +1,5 @@
+num = int(input('Digite um número: '))
+suc = (num + 1)
+ant = (num - 1)
+print('Analisando o número digitado, encontramos {} como antecessor e {} como sucessor de {}.'.format(ant, suc, num))
+# adicionar variáveis permite utilizar essa operações no futuro novamente, mas gastam memória. Quando não for utilizá-las novamente, o ideal é fazer a operação dentro de .(format)

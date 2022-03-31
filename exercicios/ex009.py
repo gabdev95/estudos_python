@@ -1,0 +1,16 @@
+# Crie um código que leia um número inteiro qualquer e mostre a tabuada dele.
+num = int(input('Digite um número e veja a tabuada dele: '))
+print('=' * 13)
+print('{} * {:2} = {}'.format(num, 1, num * 1))
+print('{} * {:2} = {}'.format(num, 2, num * 2))
+print('{} * {:2} = {}'.format(num, 3, num * 3))
+print('{} * {:2} = {}'.format(num, 4, num * 4))
+print('{} * {:2} = {}'.format(num, 5, num * 5))
+print('{} * {:2} = {}'.format(num, 6, num * 6))
+print('{} * {:2} = {}'.format(num, 7, num * 7))
+print('{} * {:2} = {}'.format(num, 8, num * 8))
+print('{} * {:2} = {}'.format(num, 9, num * 9))
+print('{} * {:2} = {}'.format(num, 10, num * 10))
+print('=' * 13)
+# Para deixar o espaço dentro do {} com 2 dígitos, usamos :2
+# Para 'desenhar' e deixar a tabela bonita, foi utilizado o print('=' * 13)
