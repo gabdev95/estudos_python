@@ -10,3 +10,4 @@ Material desenvolvido a partir das aulas do <a href="https://www.youtube.com/pla
 - Tipos primitivos (Aula 06)
 - Operações Aritméticas (Aula 07)
 - Ordem de Precedência (Aula 07)
+- Utilizando Módulos (Aula 08)
