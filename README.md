@@ -4,7 +4,7 @@ Material desenvolvido a partir das aulas do <a href="https://www.youtube.com/pla
 
 ### 📌 Estudo de:
 
-### Mundo 1 🌎
+### 🌎 Mundo 1
 - Idle (Aula 03)
 - Comandos em Python (Aula 04)
 - <b>Pycharm</b> (Aula 05)
@@ -16,4 +16,4 @@ Material desenvolvido a partir das aulas do <a href="https://www.youtube.com/pla
 - Condições Simples (Aula 10 - Primeira parte)
 - Cores no Terminal (Aula 11 - EXTRA)
 
-### Mundo 2 🌎
+### 🌎 Mundo 2 
