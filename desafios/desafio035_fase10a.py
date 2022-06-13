@@ -6,10 +6,10 @@ reta2 = float(input('Digite o comprimento da segunda reta: '))
 reta3 = float(input('Digite o comprimento da terceira reta: '))
 maior = reta1
 somaOutras = reta2 + reta3
-if reta2 > reta1:
+if reta2 > maior:
     maior = reta2
     somaOutras = reta1 + reta3
-if reta3 > reta2:
+if reta3 > maior:
     maior = reta3
     somaOutras = reta1 + reta2
 
