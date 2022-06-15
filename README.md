@@ -14,6 +14,7 @@ Material desenvolvido a partir das aulas do <a href="https://www.youtube.com/pla
 - Utilização de Módulos (Aula 08)
 - Manipulação de textos (Aula 09)
 - Condições Simples (Aula 10 - Primeira parte)
+    - Atividade do robô melhorada.
 - Cores no Terminal (Aula 11 - EXTRA)
 
 ### 🌎 Mundo 2 
