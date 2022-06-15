@@ -17,4 +17,5 @@ Material desenvolvido a partir das aulas do <a href="https://www.youtube.com/pla
 - Cores no Terminal (Aula 11 - EXTRA)
 
 ### 🌎 Mundo 2 
-
+- Dicas e Regras (Aula 11)
+- 
