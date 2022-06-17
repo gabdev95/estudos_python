@@ -19,4 +19,4 @@ Material desenvolvido a partir das aulas do <a href="https://www.youtube.com/pla
 
 ### 🌎 Mundo 2 
 - Dicas e Regras (Aula 11)
-- 
+- Condições Aninhadas - <b>elif</b> (Aula 12)
