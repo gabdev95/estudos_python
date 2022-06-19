@@ -9,5 +9,3 @@ else:
     print('Seu nome é bem comum!')
 print('Tenha um bom dia, {}!'.format(nome))
 
-
-
