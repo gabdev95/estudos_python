@@ -1,32 +1,15 @@
-# Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas.
-# No final do programa mostre
-# - A média de idade do grupo.
-# - Qual é o nome do homem mais velho.
-# - Quantas mulheres têm menos de 20 anos.
+# Faça um programa que leia o peso de cinco pessoas.
+# No final mostre qual foi o maior e o menor peso lidos.
 
-s = 0
-media_idade = 0
-maior_idade_masc = 0
-quantidade_mulheres = 0
-lista_idades = []
-lista_nomes = []
-pos_idade = 0
-for pessoas in range(1, 5):
-    nome = str(input('Digite o nome da {}ª pessoa: '.format(pessoas))).strip()
-    idade = int(input('Digite a idade da {}ª pessoa: '.format(pessoas)))
-    sexo = str(input('Digite o sexo da {}ª pessoa: '.format(pessoas))).strip().upper()
-    s += idade
-    media_idade = s / 4
-    if sexo == 'MASCULINO':
-        lista_idades.append(idade)
-        lista_nomes.append(nome)
-        maior_idade_masc = max(lista_idades, key=int)
-        pos_idade = lista_idades.index(maior_idade_masc)
-    else:
-        if idade < 20:
-            quantidade_mulheres += 1
+lista_pesos = []
+maior_peso = 0
+menor_peso = 0
+for peso in range(1, 6):
+    pesos = float(input('Digite o peso da {}ª pessoa: '.format(peso)))
+    lista_pesos.append(pesos)
+    maior_peso = max(lista_pesos, key=float)
+    menor_peso = min(lista_pesos, key=float)
 print('-=' * 20)
-print('A média de idade do grupo é: {} anos.'.format(media_idade))
-print('O homem mais velho do grupo se chama {} e tem {} anos.'.format(lista_nomes[pos_idade], maior_idade_masc))
-print('Existem {} mulher(es) com idade menor que 20 anos.'.format(quantidade_mulheres))
+print('O maior peso do grupo é {:.1f}kg.'.format(maior_peso))
+print('O menor peso do grupo é {:.1f}kg.'.format(menor_peso))
 print('-=' * 20)
