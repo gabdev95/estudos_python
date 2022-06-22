@@ -3,9 +3,10 @@
 
 primeiro_termo = int(input('Digite o primeiro termo da P.A.: '))
 razao = int(input('Digite a razão da P.A.: '))
-decimo_termo = primeiro_termo + (10 * razao)
-resultado = 1
-while primeiro_termo <= decimo_termo:
-    primeiro_termo *= razao
-    resultado = primeiro_termo
-print(resultado)
+termo = primeiro_termo
+cont = 1
+while cont <= 10:
+    print('{} ->'.format(termo), end=' ')
+    termo += razao
+    cont += 1
+print('FIM')
