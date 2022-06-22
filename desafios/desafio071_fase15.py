@@ -27,5 +27,5 @@ while True:
         if total == 0:
             break
 print('=' * 30)
-print('{:^30}'.format('VOLTE SEMPRE!'))
+print('{:^30}'.format('VOLTE SEMPRE! '))
 print('=' * 30)
