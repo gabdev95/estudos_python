@@ -20,3 +20,5 @@ Material desenvolvido a partir das aulas do <a href="https://www.youtube.com/pla
 ### 🌎 Mundo 2 
 - Dicas e Regras (Aula 11)
 - Condições Aninhadas - <b>elif</b> (Aula 12)
+- Estrutura de repetição com variável de controle - <b>for</b> (Aula 13)
+- Estrutura de repetição com teste lógico - <b>while</b> (Aula 14)
