@@ -1,4 +1,4 @@
-'''lanche = ('Hamburguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
+lanche = ('Hamburguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
 # print(lanche[3])  # Mostra o índice 3 (pudim) da tupla
 
 print(sorted(lanche))  # Em ordem alfabética
@@ -12,7 +12,7 @@ for cont in range(0, len(lanche)):
 for pos, comida in enumerate(lanche):
     print(f'Eu vou comer {comida} na posição {pos}')
 
-print('Comi pra caramba!')'''
+print('Comi pra caramba!')
 
 '''a = (2, 5, 4)
 b = (5, 8, 1, 2)
@@ -22,6 +22,6 @@ print(c)
 print(c.count(5))
 print(c.index(8))'''
 
-pessoa = ('Gabriele', 27, 'F', 49.2)
+'''pessoa = ('Gabriele', 27, 'F', 49.2)
 # del(pessoa) apaga a tupla inteira
-print(pessoa)
+print(pessoa)'''
