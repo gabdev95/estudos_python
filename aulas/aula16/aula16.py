@@ -4,7 +4,7 @@ lanche = ('Hamburguer', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
 print(sorted(lanche))  # Em ordem alfabética
 
 for comidas in lanche:
-    print(f'Eu vou come {comidas}')
+    print(f'Eu vou comer {comidas}')
 
 for cont in range(0, len(lanche)):
     print(f'Eu vou comer {lanche[cont]} na posição {cont}')
