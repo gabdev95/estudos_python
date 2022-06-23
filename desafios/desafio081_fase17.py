@@ -15,7 +15,7 @@ while True:
         sim_nao = str(input('Deseja continuar? [S/N] '))[0]
     else:
         break
-valores.sort()
+valores.sort(reverse=True)
 print(f'Foram digitados {len(valores)} números.')
 print(f'A lista ordenada: {valores}')
 if 5 in valores:
